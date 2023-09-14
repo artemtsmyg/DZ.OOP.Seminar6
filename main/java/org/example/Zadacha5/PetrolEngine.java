@@ -12,3 +12,5 @@ public class PetrolEngine implements Engine {
         // Реализация запуска бензинового двигателя
     }
 }
+
+//

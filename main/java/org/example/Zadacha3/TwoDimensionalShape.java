@@ -6,3 +6,6 @@ package org.example.Zadacha3;
 public interface TwoDimensionalShape {
     double area();
 }
+
+
+//

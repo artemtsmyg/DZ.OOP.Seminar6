@@ -17,3 +17,8 @@ public class Car extends Vehicle {
         return getMaxSpeed() * 0.8;
     }
 }
+
+
+
+
+//

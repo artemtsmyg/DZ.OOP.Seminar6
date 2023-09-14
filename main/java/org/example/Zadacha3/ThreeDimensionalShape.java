@@ -6,3 +6,5 @@ package org.example.Zadacha3;
 public interface ThreeDimensionalShape {
     double volume();
 }
+
+//

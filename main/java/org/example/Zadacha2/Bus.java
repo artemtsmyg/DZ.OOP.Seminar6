@@ -17,3 +17,8 @@ public class Bus extends Vehicle {
         return getMaxSpeed() * 0.6;
     }
 }
+
+
+
+
+//

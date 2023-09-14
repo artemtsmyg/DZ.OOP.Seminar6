@@ -12,3 +12,6 @@ public class DieselEngine implements Engine {
         // Реализация запуска дизельного двигателя
     }
 }
+
+
+//
