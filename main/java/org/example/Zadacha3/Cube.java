@@ -24,4 +24,3 @@ public class Cube implements ThreeDimensionalShape {
     }
 }
 
-//

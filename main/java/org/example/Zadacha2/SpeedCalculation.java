@@ -43,3 +43,9 @@ public class SpeedCalculation {
         return vehicle.getMaxSpeed();
     }
 }
+
+
+
+
+
+//
