@@ -20,7 +20,7 @@ package org.example.Zadacha1;
 //    }
 //}
 //​
-//        Подсказка: вынесите метод calculateNetSalary() в отдельный класс
+//        Подсказка-вынесите метод calculateNetSalary() в отдельный класс
 
 import java.util.Date;
 
